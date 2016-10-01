@@ -14,7 +14,9 @@ x = 99;
 alert('Witaj, ' + name + ' ' + surname + foo);
 console.log('Witaj, ' + name + ' ' + surname);
 */
+
 console.log('Pole trójkąta o podstawie a: ' + a + ' i wysokości h: ' + h + ', wynosi: ' + triangleArea);
+
 /*
 console.log( 'bieżąca wartość zmiennej points to: ', points ); // 1
 console.log( 'bieżąca wartość zmiennej points to: ', points++ ); // 1
