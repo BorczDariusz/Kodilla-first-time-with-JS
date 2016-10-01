@@ -26,7 +26,7 @@ if (value = 0) {
 else {
 	console.log( 'Wynik nie jest równy 0'); }
 
-// Po za zadaniem
+// Poza zadaniem
  
 if ( !(value = 25)) {
 	console.log( value + 'jest równe 25'); }
